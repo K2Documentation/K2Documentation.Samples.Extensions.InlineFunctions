@@ -3,6 +3,8 @@ This sample project is an example of a custom Inline Function for K2 Studio. In 
 
 For more on custom inline functions, please see the topic https://help.k2.com/onlinehelp/k2five/DevRef/5.3/default.htm#Extend/WF/Custom-Inline-Function.html
 
+Note: This extension applies to legacy components (such as K2 Studio and K2 for Visual Studio), legacy assemblies, legacy services or legacy functionality. If you have upgraded from K2 blackpearl 4.7 to K2 Five, these items may still be available in your environment. These legacy items will not be available in new installations of K2 Five. These legacy components may also not be available, supported, or behave as described here, in future updates or versions of K2.
+
 ## Prerequisites
 The sample code has the following dependencies: 
 * .NET Assemblies (both assemblies are included with K2 client-side tools install and are also included in the project's References folder)
